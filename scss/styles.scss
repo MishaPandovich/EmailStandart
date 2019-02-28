@@ -1,0 +1,56 @@
+@import "foundation";
+
+.no-bg {
+  background: transparent !important;
+}
+
+.header-text {
+  text-transform: uppercase;
+  color: #626658;
+}
+
+.wrapper-img {
+  display: block;
+  margin-left: 10px;
+}
+
+.post-text {
+  margin-left: 10px;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.post-title {
+  margin-left: 10px;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: bold;
+  color: #6c7e44;
+}
+
+.social-link {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.footer-title {
+  font-weight: bold;
+}
+
+.footer-text {
+  font-size: 12px;
+}
+
+.footer-link {
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.small-text { 
+    font-size: 12px;
+}
+
+.small-link {
+  text-decoration: line;
+  color: #000;
+}
